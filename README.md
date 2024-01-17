@@ -1,4 +1,3 @@
-Certainly! Writing a README for a project is essential to provide users and contributors with information about the project, how to use it, and any other relevant details. Below is a template for a README file for your project:
 # Parkinson's Disease Prediction Project
 
 ## Overview
